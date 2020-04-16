@@ -1,38 +1,33 @@
 const portfolio = [
-    {
-      title: "Project 1: Gamers Unite",
-      tagline: "An informative application about upcoming gaming conventions for Esport gamers",
-      url: 
-      type: "coding"
-    },
+ 
     {
         title: "My Portfolio",
-        tagline: "This very page by yours truly",
-        url: 
+        tagline: "James Tankersley's Portfolio",
+        url: https: "//jamestankersley.github.io/"
         type: "coding"
       },
       {
-        title: "Code Quiz",
-        tagline: "A JavaScript Quiz, using...JavaScript",
-        url: 
+        title: "Day Planner",
+        tagline: "A planner to schedule your day",
+        url: "https://github.com/jamestankersley/calendar"
         type: "coding"
       },
       {
         title: "Weather Dashbaord",
         tagline: "A simple weather dashboard utilizing APIs",
-        url: 
+        url: "https://github.com/jamestankersley/weatherdashboard"
         type: "coding"
       },
       {
-        title: "Eat Da Burger",
-        tagline: "An application that allows you to devour some good burgers",
-        url: ,
+        title: "Password Generator",
+        tagline: "An application that generates a random password",
+        url: "https://github.com/jamestankersley/passwordgenerator" ,
         type: "coding"
       },
       {
-        title: "Star-Dogs",
-        tagline: "An app for your dog's very own personal horoscope",
-        url:,
+        title: "Want 2 Go",
+        tagline: "An app to plan your outing",
+        url:" https://github.com/robertrunstrails71/Want2Go",
         type: "coding"
       }
   ];
