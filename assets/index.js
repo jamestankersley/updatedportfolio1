@@ -6,7 +6,7 @@ document.addEventListener("DOMContentLoaded", function (event) {  //waits for pa
     logo.attr("id", "logo-main");
 
     const welcome = $("<div>");
-    welcome.text("Welcome to Andrew Weihe's Portfolio.")
+    welcome.text("Hello, welcome to James Tankersley's Portfolio.")
     welcome.attr("id", "welcome-text");
 
     const projBtn = $('<button/>', {
