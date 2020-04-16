@@ -29,5 +29,5 @@ const portfolio = [
         tagline: "An app to plan your outing",
         url:" https://github.com/robertrunstrails71/Want2Go",
         type: "coding"
-      }
+      },
   ];
