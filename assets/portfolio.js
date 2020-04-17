@@ -1,9 +1,14 @@
 const portfolio = [
- 
-    {
+      {
+        title: "Project 1: Want 2 Go",
+        tagline: "An app to plan your outing",
+        url:" https://github.com/robertrunstrails71/Want2Go",
+        type: "coding"
+      },
+      {
         title: "My Portfolio",
         tagline: "James Tankersley's Portfolio",
-        url: https: "//jamestankersley.github.io/"
+        url: "https://jamestankersley.github.io/"
         type: "coding"
       },
       {
@@ -22,12 +27,6 @@ const portfolio = [
         title: "Password Generator",
         tagline: "An application that generates a random password",
         url: "https://github.com/jamestankersley/passwordgenerator" ,
-        type: "coding"
-      },
-      {
-        title: "Want 2 Go",
-        tagline: "An app to plan your outing",
-        url:" https://github.com/robertrunstrails71/Want2Go",
         type: "coding"
       },
   ];
